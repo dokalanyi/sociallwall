@@ -1,2 +1,5 @@
 shared_writable_dirs:
     - app/tmp/cache
+    - app/tmp/cache/persistent
+    - app/tmp/cache/models
+    - app/tmp
